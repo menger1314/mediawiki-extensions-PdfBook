@@ -198,6 +198,15 @@ $messages['gsw'] = array(
 	'pdfbook-desc' => 'Stellt e Buech vu Syte us ere Kategori zämme un exportiert s as PDF-Buech',
 );
 
+/** Gujarati (ગુજરાતી)
+ * @author Ashok modhvadia
+ */
+$messages['gu'] = array(
+	'pdfbook-action' => 'PDF તરીકે છાપો',
+	'pdfbook-log' => '$1 એ PDF પુસ્તક તરીકે નિકાસ કર્યું',
+	'pdfbook-desc' => 'શ્રેણીમાંના પાનાઓમાંથી પુસ્તક સંપાદિત કરી PDF પુસ્તક તરીકે નિકાસ કર્યું',
+);
+
 /** Hebrew (עברית)
  * @author Amire80
  */

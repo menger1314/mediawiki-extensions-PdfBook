@@ -35,7 +35,7 @@ $messages['af'] = array(
 	'pdfbook-desc' => "Maak 'n boek van bladsye in 'n kategorie en eksporteer as 'n PDF-boek",
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -63,7 +63,7 @@ $messages['bn'] = array(
 	'pdfbook-log' => '$1 পিডিএফ বই হিসেবে তৈরিকৃত',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Y-M D
  */
 $messages['br'] = array(
@@ -72,7 +72,7 @@ $messages['br'] = array(
 	'pdfbook-desc' => "A sav ul levr adalek pajennoù ur rummad hag ec'h enporzh anezhañ evel ul levr er furmad PDF",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -81,7 +81,7 @@ $messages['bs'] = array(
 	'pdfbook-desc' => 'Sastavlja knjigu od stranica u kategoriji i izvozi ih kao PDF knjigu',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Aleator
  */
 $messages['ca'] = array(
@@ -108,7 +108,7 @@ $messages['cy'] = array(
 	'pdfbook-desc' => 'Yn defnyddio tudalennau o rhyw gategori i lunio llyfr, ac allforio hwnnw ar ffurf llyfr PDF',
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Peter Alberti
  */
 $messages['da'] = array(
@@ -135,7 +135,7 @@ $messages['dsb'] = array(
 	'pdfbook-desc' => 'Staja knigły z bokow w kategoriji gromadu a eksportěrujo je ako PDF-knigły',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  */
 $messages['es'] = array(
@@ -144,7 +144,7 @@ $messages['es'] = array(
 	'pdfbook-desc' => 'Compone un libro a partir de las páginas presentes en una categoría y lo exporta como libro en PDF',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  */
 $messages['eu'] = array(
@@ -163,7 +163,7 @@ $messages['fa'] = array(
 	'pdfbook-desc' => 'از صفحه‌های یک رده کتابی می‌سازد و به صورت یک کتاب پی‌دی‌اف برون‌بری می‌کند',
 );
 
-/** French (Français)
+/** French (français)
  * @author Jean-Frédéric
  */
 $messages['fr'] = array(
@@ -172,7 +172,7 @@ $messages['fr'] = array(
 	'pdfbook-desc' => 'Compose un livre à partir des pages d’une catégorie et exporte comme un livre au format PDF',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -225,7 +225,7 @@ $messages['hsb'] = array(
 	'pdfbook-desc' => 'Zestaja knihu ze stronow w kategoriji a eksportuje jako PDF-knihu',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author BáthoryPéter
  */
 $messages['hu'] = array(
@@ -234,7 +234,7 @@ $messages['hu'] = array(
 	'pdfbook-desc' => 'Kiválasztott oldalakat kategóriába helyez, összeállít belőlük egy könyvet, és exportálja PDF-könyvként',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -261,7 +261,7 @@ $messages['ilo'] = array(
 	'pdfbook-desc' => 'Agaramid ti libro nga naggapu kadagiti pampanid iti kategoria ken iangkat a kasla PDF a libro',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  */
 $messages['it'] = array(
@@ -314,7 +314,7 @@ $messages['lb'] = array(
 	'pdfbook-desc' => 'Setzt e Buch aus Säiten an eng Kategorie an exportéiert se als PDF-Buch',
 );
 
-/** Latvian (Latviešu)
+/** Latvian (latviešu)
  * @author GreenZeb
  * @author Papuass
  */
@@ -324,7 +324,7 @@ $messages['lv'] = array(
 	'pdfbook-desc' => 'Izveido grāmatu no kategorijā esošajām lapām un pārstrādā to PDF formātā',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -369,7 +369,7 @@ $messages['nl'] = array(
 	'pdfbook-desc' => "Maakt een boek van pagina's in een categorie en maakt een export als PDF-boek",
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -388,7 +388,7 @@ $messages['pms'] = array(
 	'pdfbook-desc' => 'A compon un lìber a parte da le pàgine an na categorìa e a lo espòrta com un lìber an PDF',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
@@ -397,7 +397,7 @@ $messages['pt'] = array(
 	'pdfbook-desc' => 'Compõe um livro com as páginas de uma categoria e exporta-o como um livro PDF',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Garrasdalua
  */
 $messages['pt-br'] = array(
@@ -406,7 +406,7 @@ $messages['pt-br'] = array(
 	'pdfbook-desc' => 'Componha um livro com paginas de uma categoria e o exporte como um livro PDF',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
@@ -415,7 +415,7 @@ $messages['ru'] = array(
 	'pdfbook-desc' => 'Создаёт книгу из страниц категории, преобразует её в PDF',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -424,7 +424,7 @@ $messages['sk'] = array(
 	'pdfbook-desc' => 'Zostavá knihu z stránok v kategórii a exportuje ju vo formáte PDF',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Diupwijk
  */
 $messages['sv'] = array(

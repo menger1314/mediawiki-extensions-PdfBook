@@ -44,7 +44,7 @@ $messages['ast'] = array(
 	'pdfbook-desc' => "Compón un llibru a partir de páxines d'una categoría y lu esporta como llibru PDF",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Wizardist
  */
@@ -126,7 +126,7 @@ $messages['de'] = array(
 	'pdfbook-desc' => 'Ermöglicht die Erstellung von PDF-Dateien einzelner Seiten oder gesammelt aller in einer Kategorie vorhandener Seiten',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -180,7 +180,7 @@ $messages['frp'] = array(
 	'pdfbook-log' => '$1 èxportâ desot fôrma de lévro PDF',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -216,7 +216,7 @@ $messages['he'] = array(
 	'pdfbook-desc' => 'לערוך ספר מדפים בקטגוריה וייצא אותו כ־PDF',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(

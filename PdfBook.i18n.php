@@ -90,7 +90,7 @@ $messages['ca'] = array(
 	'pdfbook-desc' => 'Compon un llibre a partir de pàgines en una categoria i ho exporta com a llibre PDF',
 );
 
-/** Chechen (Нохчийн)
+/** Chechen (нохчийн)
  * @author Sasan700
  */
 $messages['ce'] = array(
@@ -351,7 +351,7 @@ $messages['mzn'] = array(
 	'pdfbook-desc' => 'از صفحه‌ئون اتا رج کتاب ساجنه و به صورت اتا کتاب پی‌دی‌اف برون‌ریزی کانده',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(

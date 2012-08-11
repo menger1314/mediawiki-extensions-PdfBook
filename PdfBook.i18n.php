@@ -280,6 +280,13 @@ $messages['ja'] = array(
 	'pdfbook-desc' => 'カテゴリ内のページから本を構築し、PDFブックとしてエクスポートする',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'pdfbook-action' => 'შენახვა PDF ფორმატში',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author គីមស៊្រុន
  */

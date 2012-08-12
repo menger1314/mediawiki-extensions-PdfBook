@@ -285,6 +285,8 @@ $messages['ja'] = array(
  */
 $messages['ka'] = array(
 	'pdfbook-action' => 'შენახვა PDF ფორმატში',
+	'pdfbook-log' => '$1 ექსპორტირებულია როგორც PDF წიგნი',
+	'pdfbook-desc' => 'კატეგორიების გვერდებიდან ქმნის წიგნს და გარდაქმნის PDF წიგნად',
 );
 
 /** Khmer (ភាសាខ្មែរ)
@@ -447,6 +449,14 @@ $messages['sw'] = array(
 	'pdfbook-action' => 'Chapa kwa mtindo wa PDF',
 	'pdfbook-log' => '$1 amekipeleka kitabu nje kwa mtindo wa PDF',
 	'pdfbook-desc' => 'Inaunda kurasa za jamii fulani katika kitabu, na kukipeleka nje kwa mtindo wa PDF',
+);
+
+/** Tamil (தமிழ்)
+ * @author Shanmugamp7
+ */
+$messages['ta'] = array(
+	'pdfbook-action' => 'PDF ஆக அச்சிடு',
+	'pdfbook-log' => '$1 PDF புத்தகமாக ஏற்றுமதி செய்யப்பட்டது',
 );
 
 /** Telugu (తెలుగు)

@@ -163,6 +163,13 @@ $messages['fa'] = array(
 	'pdfbook-desc' => 'از صفحه‌های یک رده کتابی می‌سازد و به صورت یک کتاب پی‌دی‌اف برون‌بری می‌کند',
 );
 
+/** Finnish (suomi)
+ * @author Beluga
+ */
+$messages['fi'] = array(
+	'pdfbook-action' => 'Tulosta PDF-tiedostoksi',
+);
+
 /** French (français)
  * @author Jean-Frédéric
  */

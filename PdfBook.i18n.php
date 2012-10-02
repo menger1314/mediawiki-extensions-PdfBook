@@ -44,7 +44,7 @@ $messages['ast'] = array(
 	'pdfbook-desc' => "Compón un llibru a partir de páxines d'una categoría y lu esporta como llibru PDF",
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Wizardist
  */
@@ -314,7 +314,7 @@ $messages['ksh'] = array(
 	'pdfbook-desc' => 'Ställd e Booch zesamme us dä Sigge en ene Saachjropp un expoteed et als en Aat Booch en en PDF-Dattei.',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  */
 $messages['ku-latn'] = array(
@@ -367,7 +367,7 @@ $messages['mzn'] = array(
 	'pdfbook-desc' => 'از صفحه‌ئون اتا رج کتاب ساجنه و به صورت اتا کتاب پی‌دی‌اف برون‌ریزی کانده',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(

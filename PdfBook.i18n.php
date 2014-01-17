@@ -483,3 +483,11 @@ $messages['tl'] = array(
 	'pdfbook-desc' => 'Bumubuo ng isang aklat mula sa mga pahinang nasa loob ng isang kategorya at nagluluwas bilang isang aklat na PDF',
 );
 
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'pdfbook-action' => '打印为PDF',
+	'pdfbook-log' => '$1导出了一个PDF',
+	'pdfbook-desc' => '从分类中的页面编写一本书并导出为PDF。',
+);

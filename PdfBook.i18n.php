@@ -483,6 +483,15 @@ $messages['tl'] = array(
 	'pdfbook-desc' => 'Bumubuo ng isang aklat mula sa mga pahinang nasa loob ng isang kategorya at nagluluwas bilang isang aklat na PDF',
 );
 
+/** Ukrainian (українська)
+ * @author Andriykopanytsia
+ */
+$messages['uk'] = array(
+	'pdfbook-action' => 'Друк у PDF',
+	'pdfbook-log' => '$1 експортовано як книгу PDF',
+	'pdfbook-desc' => 'Створює книгу зі сторінок у категорії і експортує як книгу PDF',
+);
+
 /** Simplified Chinese (中文（简体）‎)
  * @author Yfdyh000
  */

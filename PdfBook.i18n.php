@@ -305,6 +305,14 @@ $messages['km'] = array(
 	'pdfbook-desc' => 'តែងសៀវភៅពីទំព័រនានាក្នុងចំណាត់ក្រុមមួយ រួចនាំចេញជាសៀវភៅ PDF',
 );
 
+/** Korean (한국어)
+ * @author Priviet
+ */
+$messages['ko'] = array(
+	'pdfbook-action' => 'PDF로 인쇄',
+	'pdfbook-log' => '$1 사용자가 PDF 책으로 내보냄',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */

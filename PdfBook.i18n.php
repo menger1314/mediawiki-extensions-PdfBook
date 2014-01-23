@@ -311,6 +311,7 @@ $messages['km'] = array(
 $messages['ko'] = array(
 	'pdfbook-action' => 'PDF로 인쇄',
 	'pdfbook-log' => '$1 사용자가 PDF 책으로 내보냄',
+	'pdfbook-desc' => '분류에서 문서를 책으로 구성하고 PDF 책으로 내보내기',
 );
 
 /** Colognian (Ripoarisch)

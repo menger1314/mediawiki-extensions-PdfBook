@@ -7,7 +7,7 @@
  * See http://www.organicdesign.co.nz/Extension_talk:PdfBook for development notes and disucssion
  *
  * Started: 2007-08-08
- * 
+ *
  * @file
  * @ingroup Extensions
  * @author Aran Dunkley [http://www.organicdesign.co.nz/nad User:Nad]
@@ -16,10 +16,11 @@
  */
 if( !defined( 'MEDIAWIKI' ) ) die( "Not an entry point." );
 
-define( 'PDFBOOK_VERSION', "1.0.11, 2011-11-13" );
+define( 'PDFBOOK_VERSION', "1.1.0, 2014-04-01" );
 
 $dir = dirname( __FILE__ );
 $wgAutoloadClasses['PdfBookHooks'] = $dir . '/PdfBook.hooks.php';
+$wgMessagesDirs['PdfBook'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['PdfBook'] = $dir . '/PdfBook.i18n.php';
 
 $wgExtensionCredits['parserhook'][] = array(

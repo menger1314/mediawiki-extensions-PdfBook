@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Siebrand"
-        ]
-    },
-    "pdfbook-action": "Afdrukken als PDF",
-    "pdfbook-log": "$1 is geëxporteerd als PDF-boek",
-    "pdfbook-desc": "Maakt een boek van pagina's in een categorie en maakt een export als PDF-boek"
+	"@metadata": {
+		"authors": [
+			"Siebrand"
+		]
+	},
+	"pdfbook-action": "Afdrukken als PDF",
+	"pdfbook-log": "$1 is geëxporteerd als PDF-boek",
+	"pdfbook-desc": "Maakt een boek van pagina's in een categorie en maakt een export als PDF-boek"
 }

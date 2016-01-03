@@ -15,7 +15,7 @@ class PdfBookHooks {
 			$opt = ParserOptions::newFromUser( $wgUser );
 
 			// Log the export
-			$msg = wfMsg( 'pdfbook-log', $wgUser->getUserPage()->getPrefixedText() );
+			$msg = wfMessage( 'pdfbook-log', $wgUser->getUserPage()->getPrefixedText() )->text();
 			$log = new LogPage( 'pdf', false );
 			$log->addEntry( 'book', $article->getTitle(), $msg );
 
@@ -147,7 +147,7 @@ class PdfBookHooks {
 		if ( $wgPdfBookTab ) {
 			$actions['pdfbook'] = array(
 				'class' => false,
-				'text' => wfMsg( 'pdfbook-action' ),
+				'text' => $skin->msg( 'pdfbook-action' )->text(),
 				'href' => $skin->getTitle()->getLocalURL( "action=pdfbook&format=single" ),
 			);
 		}
@@ -164,7 +164,7 @@ class PdfBookHooks {
 		if ( $wgPdfBookTab ) {
 			$actions['views']['pdfbook'] = array(
 				'class' => false,
-				'text' => wfMsg( 'pdfbook-action' ),
+				'text' => $skin->msg( 'pdfbook-action' )->text(),
 				'href' => $skin->getTitle()->getLocalURL( "action=pdfbook&format=single" ),
 			);
 		}
